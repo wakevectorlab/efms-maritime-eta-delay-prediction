@@ -15,7 +15,6 @@ The long term goal of this project is to develop predictive features for ETA and
 - Pandas
 - AIS Data
 - Machine Learning
-- Maritime Analytics
 
 ## Project Status
 
@@ -23,4 +22,4 @@ The long term goal of this project is to develop predictive features for ETA and
 
 This repository is currently being prepared.
 
-Full documentation, methodology, code, visualisations and project results will be added progressively as the project develops!
+Full documentation, methodology, code, visualisations and project results will be added progressively as the project develops! Right now: the project is in its first steps of determining and gathering ship data via IMO code, using maritime APIs.
